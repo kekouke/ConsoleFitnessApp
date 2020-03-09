@@ -1,0 +1,9 @@
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\bin\Debug\CodeBloFitness.CMD.exe.config
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\bin\Debug\CodeBloFitness.CMD.exe
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\bin\Debug\CodeBloFitness.CMD.pdb
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\bin\Debug\CodeBlogFitness.BL.dll
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\bin\Debug\CodeBlogFitness.BL.pdb
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.CopyComplete
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\obj\Debug\CodeBloFitness.CMD.exe
+C:\Users\Mi\Desktop\coding\CodeBlogFitness\CodeBloFitness.CMD\obj\Debug\CodeBloFitness.CMD.pdb

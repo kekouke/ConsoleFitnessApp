@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.BL", "CodeBlogFitness.BL\CodeBlogFitness.BL.csproj", "{0C23B188-00BB-4135-B244-82ACF78C99D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBloFitness.CMD", "CodeBloFitness.CMD\CodeBloFitness.CMD.csproj", "{2661FE65-754F-40A0-9B7B-658295780FDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.CMD", "CodeBloFitness.CMD\CodeBlogFitness.CMD.csproj", "{2661FE65-754F-40A0-9B7B-658295780FDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

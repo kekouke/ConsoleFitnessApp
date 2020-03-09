@@ -2,6 +2,7 @@
 
 namespace CodeBlogFitness.BL.Model
 {
+    [Serializable]
     public class Gender
     {
         public string Name { get; }
